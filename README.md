@@ -23,4 +23,10 @@ GitHub Action Secrets
 
 <img width="2240" alt="Screen Shot 2021-11-17 at 3 24 58 PM" src="https://user-images.githubusercontent.com/54492419/142298580-f8726a51-f36d-4d6d-adc3-95ee010ed323.png">
 
+Trigger a CD Deployment by creating a new GitHub Release
+
+<img width="2240" alt="Screen Shot 2021-11-17 at 3 35 53 PM" src="https://user-images.githubusercontent.com/54492419/142299826-0b1414cf-4c46-484e-9ac9-0fbab67448ec.png">
+<img width="2240" alt="Screen Shot 2021-11-17 at 3 36 11 PM" src="https://user-images.githubusercontent.com/54492419/142299830-f554d717-df2c-4389-ac5e-a5cbf3f2995c.png">
+<img width="2240" alt="Screen Shot 2021-11-17 at 3 36 17 PM" src="https://user-images.githubusercontent.com/54492419/142299835-6b1f2473-9380-45c4-aae5-564da67e9de9.png">
+
 
