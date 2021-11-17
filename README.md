@@ -19,3 +19,8 @@ Change the values for the GKE_ZONE, GKE_CLUSTER, IMAGE, and DEPLOYMENT_NAME envi
 
 <img width="2240" alt="Screen Shot 2021-11-17 at 11 10 45 AM" src="https://user-images.githubusercontent.com/54492419/142297959-a27ccb2c-3757-4000-9ca9-bfbfcd49c2ac.png">
 
+GitHub Action Secrets
+
+<img width="2240" alt="Screen Shot 2021-11-17 at 3 24 58 PM" src="https://user-images.githubusercontent.com/54492419/142298580-f8726a51-f36d-4d6d-adc3-95ee010ed323.png">
+
+
